@@ -1,6 +1,7 @@
 {
   "name": "next-typescript-starter",
   "author": "k339",
+  "license": "MIT",
   "version": "0.0.1",
   "scripts": {
     "dev": "next dev",
